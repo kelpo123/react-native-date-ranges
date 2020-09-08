@@ -1,28 +1,4 @@
 {
-  "_from": "react-native-date-ranges",
-  "_id": "react-native-date-ranges@2.5.0",
-  "_inBundle": false,
-  "_integrity": "sha512-ewQZ84eBtaF3joS7cP93ANGrE8puMbfbr6pSpfGG8B5j0w/or1k/Pi8ix2b45321ZFYj7s77LKcyDnTiGAQidw==",
-  "_location": "/react-native-date-ranges",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "react-native-date-ranges",
-    "name": "react-native-date-ranges",
-    "escapedName": "react-native-date-ranges",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/react-native-date-ranges/-/react-native-date-ranges-2.5.0.tgz",
-  "_shasum": "aab58a3351606ce7a8a35a12e7d1c4e00db4a75d",
-  "_spec": "react-native-date-ranges",
-  "_where": "E:\\Dev\\one21-react-native",
   "author": {
     "name": "louis"
   },
@@ -52,7 +28,7 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "react-native-date-ranges",
+  "name": "@jois/react-native-date-ranges",
   "peerDependencies": {
     "react-native": ">=0.41.2"
   },
